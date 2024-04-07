@@ -23,9 +23,9 @@ function App() {
         {/* <Jsx /> */}
         {/* <DataBinding/> */}
         {/* <Users/> */}
-        {
+        {/* {
           Greet()
-        }
+        } */}
         <Routes>
           <Route path="/" element={<Jsx/>}></Route>
           <Route path="/binding" element={<DataBinding/>}></Route>
